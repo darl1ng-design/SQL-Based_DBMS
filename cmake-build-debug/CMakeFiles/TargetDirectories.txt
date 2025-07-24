@@ -1,3 +1,0 @@
-C:/Users/adams/Desktop/ProjektSemestralny/cmake-build-debug/CMakeFiles/ProjektSemestralny.dir
-C:/Users/adams/Desktop/ProjektSemestralny/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/adams/Desktop/ProjektSemestralny/cmake-build-debug/CMakeFiles/rebuild_cache.dir
