@@ -1,7 +1,0 @@
-# ninja log v5
-995	5522	7402768302659424	CMakeFiles/ProjektSemestralny.dir/main.cpp.obj	18d8375364225bdc
-925	7997	7402763733243407	CMakeFiles/ProjektSemestralny.dir/QueryExecutor.cpp.obj	faac59b3a4401332
-5698	19069	7402768422260774	ProjektSemestralny.exe	6ba38a1700e94c2d
-1333	9338	7402742503237639	CMakeFiles/ProjektSemestralny.dir/Column.cpp.obj	92ee1eddbc557947
-914	8843	7402763733556029	CMakeFiles/ProjektSemestralny.dir/Table.cpp.obj	a96b4c12cf41ce8b
-8590	13612	7402742562096009	CMakeFiles/ProjektSemestralny.dir/Database.cpp.obj	5ef01b345c58401b
